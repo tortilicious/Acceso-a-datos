@@ -1,4 +1,4 @@
-package Tarea_;
+package JAXB;
 
 /*
     Se trata de listar los datos contenidos en un fichero XML con
