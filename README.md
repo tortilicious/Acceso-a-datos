@@ -11,7 +11,7 @@ Este módulo forma parte de la formación del Ciclo de Desarrollo de Aplicacione
 ## 🎯 Objetivos del Módulo
 
 ### Competencias Generales
-
+[AccesoDatos.iml](AccesoDatos.iml)
 - Interpretar el diseño lógico de bases de datos, analizando y cumpliendo especificaciones para gestionar bases de datos
 - Seleccionar y emplear lenguajes, herramientas y librerías para desarrollar aplicaciones multiplataforma con acceso a bases de datos
 - Gestionar la información almacenada, planificando e implementando sistemas de formularios e informes
